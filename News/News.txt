@@ -1,2 +1,3 @@
 Teacher Filter works only when you are connecting to Internet
-If there any mistake or missing teacher try to contact me 
+If there any mistake or missing teacher account try to contact me 
+When you use this application on local network High download speed makes it difficult to track the download process
