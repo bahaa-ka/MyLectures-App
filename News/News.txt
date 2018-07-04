@@ -1,2 +1,2 @@
 Teacher Filter work only when connected to the Internet
-If there is a shortage or error in the teachers' lists contact me 
+If there is a shortage or error in the teachers lists contact me 
