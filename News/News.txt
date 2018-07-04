@@ -1,3 +1,2 @@
-قوائم المدرسين حسب الكلية تعمل فقط عند الاتصال بالانترنت
-في حال وجود نقص او خطأ في قوائم المدرسين اتصل بي 
-عند استخدام التطبيق داخل منشأة السكن الجامعي يصبح من الصعب تتبع عملية التحميل نظرا لسرعة التحميل العالية التي قد تستغرق أجزاء من الثانية
+Teacher Filter work only when connected to the Internet
+If there is a shortage or error in the teachers' lists contact me 
